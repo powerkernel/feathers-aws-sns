@@ -1,0 +1,24 @@
+{
+  "name": "feathers-aws-sns",
+  "version": "1.0.0",
+  "description": "Feathers AWS SNS service",
+  "main": "lib/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "feathers",
+    "aws",
+    "sns"
+  ],
+  "author": {
+    "name": "Harry Tang",
+    "email": "harry@powerkernel.com",
+    "url": "https://powerkernel.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@feathersjs/errors": "^3.3.6",
+    "aws-sdk": "^2.499.0"
+  }
+}
