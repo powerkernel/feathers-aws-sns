@@ -1,10 +1,10 @@
 # feathers-aws-sns
 
-[![Build Status](https://travis-ci.org/powerkernel/feathers-aws-sns.png?branch=master)](https://travis-ci.org/powerkernel/feathers-aws-sns)
+[![Build Status](https://api.travis-ci.com/powerkernel/feathers-aws-sns.svg?branch=master)](https://travis-ci.com/powerkernel/feathers-aws-sns)
 [![Code Climate](https://codeclimate.com/github/powerkernel/feathers-aws-sns/badges/gpa.svg)](https://codeclimate.com/github/powerkernel/feathers-aws-sns)
-[![Test Coverage](https://codeclimate.com/github/powerkernel/feathers-aws-sns/badges/coverage.svg)](https://codeclimate.com/github/powerkernel/feathers-aws-sns/coverage)
 [![Dependency Status](https://img.shields.io/david/powerkernel/feathers-aws-sns.svg?style=flat-square)](https://david-dm.org/powerkernel/feathers-aws-sns)
-[![Download Status](https://img.shields.io/npm/dm/feathers-aws-sns.svg?style=flat-square)](https://www.npmjs.com/package/feathers-aws-sns) [![Greenkeeper badge](https://badges.greenkeeper.io/powerkernel/feathers-aws-sns.svg)](https://greenkeeper.io/)
+[![Download Status](https://img.shields.io/npm/dm/feathers-aws-sns.svg?style=flat-square)](https://www.npmjs.com/package/feathers-aws-sns) 
+[![Greenkeeper badge](https://badges.greenkeeper.io/powerkernel/feathers-aws-sns.svg)](https://greenkeeper.io/)
 
 > Feathers AWS SNS service
 
