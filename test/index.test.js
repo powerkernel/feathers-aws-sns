@@ -4,11 +4,10 @@
  * @copyright Copyright (c) 2019 Power Kernel
  */
 
-const { expect } = require('chai');
-const plugin = require('../lib');
+const sns = require('../lib');
 
 describe('feathers-aws-sns', () => {
-  it('basic testing', () => {
-    expect(typeof plugin).to.equal('object', 'It worked');
+  test('exports expected classes', () => {
+    expect(typeof sns).toBe('object');
   });
 });

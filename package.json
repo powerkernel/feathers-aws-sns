@@ -11,9 +11,7 @@
     "release:major": "npm version major && npm publish",
     "changelog": "github_changelog_generator && git add CHANGELOG.md && git commit -am \"Updating changelog\"",
     "lint": "semistandard lib/*.js lib/**/*.js test/*.js test/**/*.js --fix",
-    "mocha": "mocha --opts mocha.opts",
-    "coverage": "istanbul cover node_modules/mocha/bin/_mocha -- --opts mocha.opts",
-    "test": "npm run lint && npm run coverage"
+    "test": "npm run lint && jest"
   },
   "keywords": [
     "feathers",
@@ -33,13 +31,17 @@
     "url": "https://github.com/powerkernel/feathers-aws-sns/issues"
   },
   "engines": {
-    "node": ">= 6.0.0"
+    "node": ">= 8.0.0"
   },
   "license": "MIT",
   "semistandard": {
     "env": [
-      "mocha"
+      "jest"
     ]
+  },
+  "jest": {
+    "roots": ["test"],
+    "collectCoverage": true
   },
   "directories": {
     "lib": "lib"
@@ -49,9 +51,10 @@
     "aws-sdk": "^2.499.0"
   },
   "devDependencies": {
-    "chai": "^4.2.0",
+    "@feathersjs/express": "latest",
+    "@feathersjs/feathers": "latest",
     "istanbul": "^1.1.0-alpha.1",
-    "mocha": "^6.2.0",
+    "jest": "^24.8.0",
     "semistandard": "^13.0.1"
   }
 }
