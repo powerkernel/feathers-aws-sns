@@ -35,6 +35,6 @@ app.configure(plugin());
 
 ## License
 
-Copyright (c) 2019
+Copyright (c) 2019 Power Kernel
 
 Licensed under the [MIT license](LICENSE).
