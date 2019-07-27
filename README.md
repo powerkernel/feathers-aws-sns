@@ -16,21 +16,35 @@ npm install @powerkernel/feathers-aws-sns --save
 
 ## Documentation
 
-TBD
+Feathers plugin to use Amazon Simple Notification Service (SNS) 
+
+## TODOS
+`Publish` service is done, adding more services like `Topics` and `Subscriptions`
 
 ## Complete Example
 
-Here's an example of a Feathers server that uses `feathers-aws-sns`. 
+Here's an example of a Feathers server that uses `feathers-aws-sns` to send SMS direct to a phone number. 
 
 ```js
 const feathers = require('@feathersjs/feathers');
-const plugin = require('@powerkernel/feathers-aws-sns');
+const {Publish} = require('@powerkernel/feathers-aws-sns');
 
 // Initialize the application
 const app = feathers();
 
-// Initialize the plugin
-app.configure(plugin());
+// Initialize the service
+const service = new Publish({
+    region: 'us-east-1',
+    accessKey: 'your_aws_access_key',
+    secretKey: 'your_aws_access_secret_key'
+  });
+app.use('/sns/publish', service);
+
+// Send an SMS
+result = await app.service('sns/publish').create({
+    PhoneNumber: "+13305555555",
+    Message: 'Hello World'
+  });
 ```
 
 ## License
