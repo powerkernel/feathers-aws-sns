@@ -4,10 +4,10 @@
  * @copyright Copyright (c) 2019 Power Kernel
  */
 
-const sns = require('../lib');
+const Sns = require('../lib');
 
 describe('feathers-aws-sns', () => {
   test('exports expected classes', () => {
-    expect(typeof sns).toBe('object');
+    expect(typeof Sns).toBe('function');
   });
 });
