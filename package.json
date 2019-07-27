@@ -1,6 +1,6 @@
 {
   "name": "@powerkernel/feathers-aws-sns",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Feathers AWS SNS service",
   "main": "lib/",
   "scripts": {
