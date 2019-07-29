@@ -7,7 +7,8 @@
 const sns = require('../lib');
 
 const CLASSES = [
-  'Publish'
+  'Publish',
+  'Topics'
 ];
 
 describe('feathers-aws-sns', () => {
