@@ -1,5 +1,12 @@
 # Change Log
 
+## [v1.1.0](https://github.com/powerkernel/feathers-aws-sns/tree/v1.1.0) (2019-07-29)
+[Full Changelog](https://github.com/powerkernel/feathers-aws-sns/compare/v1.0.0...v1.1.0)
+
+**Merged pull requests:**
+
+- Added  `Topics` service [\#2](https://github.com/powerkernel/feathers-aws-sns/pull/2) ([harrytang](https://github.com/harrytang))
+
 ## [v1.0.0](https://github.com/powerkernel/feathers-aws-sns/tree/v1.0.0) (2019-07-27)
 **Merged pull requests:**
 
