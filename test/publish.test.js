@@ -21,8 +21,8 @@ describe('AWS SNS Public Service', () => {
       app = express(feathers())
         .use('/sns/publish', new Publish({
           region: 'us-east-1',
-          accessKey: 'some_key',
-          secretKey: 'some_key'
+          accessKey: 'your_aws_accessKey',
+          secretKey: 'your_aws_secretKey'
         }));
     });
 
