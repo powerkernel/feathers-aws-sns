@@ -19,8 +19,8 @@ npm install @powerkernel/feathers-aws-sns --save
 
 Feathers plugin to use Amazon Simple Notification Service (SNS) 
 
-## TODOS
-`Publish` service is done, adding more services like `Topics` and `Subscriptions`
+## Todo
+`Publish` and `Topics` services are done, `Subscriptions` service will be added in next release.
 
 ## Complete Example
 
