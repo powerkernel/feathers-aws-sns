@@ -1,5 +1,12 @@
 # Change Log
 
+## [v1.2.0](https://github.com/powerkernel/feathers-aws-sns/tree/v1.2.0) (2019-07-30)
+[Full Changelog](https://github.com/powerkernel/feathers-aws-sns/compare/v1.1.2...v1.2.0)
+
+**Merged pull requests:**
+
+- added Subscription service [\#3](https://github.com/powerkernel/feathers-aws-sns/pull/3) ([harrytang](https://github.com/harrytang))
+
 ## [v1.1.2](https://github.com/powerkernel/feathers-aws-sns/tree/v1.1.2) (2019-07-29)
 [Full Changelog](https://github.com/powerkernel/feathers-aws-sns/compare/v1.1.1...v1.1.2)
 
