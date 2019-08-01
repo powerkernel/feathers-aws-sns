@@ -19,6 +19,29 @@ npm install @powerkernel/feathers-aws-sns --save
 
 Feathers plugin to use Amazon Simple Notification Service (SNS) 
 
+## Available Services
+The following services are supported and map to the appropriate SNS resource:
+`Publish`
+`Topics`
+`Subscriptions`
+
+**This is pretty important!** Since this connects to your AWS account you want to make sure that you don't expose these endpoints via your app unless the user has the appropriate permissions. You can prevent any external access by doing this:
+```js
+const { Forbidden } = require('@feathersjs/errors');
+
+app.service('/sns/publish').before({
+  all: [
+    context => {
+      if(context.params.provider) {
+        throw new Forbidden('You are not allowed to access this');
+      }
+    }
+  ]
+});
+
+```
+
+
 ## Complete Example
 
 Here's an example of a Feathers server that uses `feathers-aws-sns` to send SMS direct to a phone number. 
