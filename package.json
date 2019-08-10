@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "@feathersjs/errors": "^3.3.6",
-    "aws-sdk": "^2.499.0"
+    "aws-sdk": "^2.507.0"
   },
   "devDependencies": {
     "@feathersjs/express": "latest",
