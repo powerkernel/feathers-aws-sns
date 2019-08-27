@@ -1,5 +1,19 @@
 # Change Log
 
+## [v1.2.2](https://github.com/powerkernel/feathers-aws-sns/tree/v1.2.2) (2019-08-27)
+[Full Changelog](https://github.com/powerkernel/feathers-aws-sns/compare/v1.2.1...v1.2.2)
+
+**Closed issues:**
+
+- An in-range update of aws-sdk is breaking the build 🚨 [\#4](https://github.com/powerkernel/feathers-aws-sns/issues/4)
+
+**Merged pull requests:**
+
+- Bump eslint-utils from 1.4.0 to 1.4.2 [\#8](https://github.com/powerkernel/feathers-aws-sns/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Update @feathersjs/errors to the latest version 🚀 [\#7](https://github.com/powerkernel/feathers-aws-sns/pull/7) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+- Update semistandard to the latest version 🚀 [\#6](https://github.com/powerkernel/feathers-aws-sns/pull/6) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+- Greenkeeper/aws sdk 2.507.0 [\#5](https://github.com/powerkernel/feathers-aws-sns/pull/5) ([harrytang](https://github.com/harrytang))
+
 ## [v1.2.1](https://github.com/powerkernel/feathers-aws-sns/tree/v1.2.1) (2019-08-01)
 [Full Changelog](https://github.com/powerkernel/feathers-aws-sns/compare/v1.2.0...v1.2.1)
 
