@@ -57,6 +57,6 @@
     "@feathersjs/feathers": "latest",
     "aws-sdk-mock": "^4.5.0",
     "jest": "^24.8.0",
-    "semistandard": "^13.0.1"
+    "semistandard": "^14.0.0"
   }
 }
