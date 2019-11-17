@@ -1,5 +1,16 @@
 # Change Log
 
+## [1.2.3](https://github.com/powerkernel/feathers-aws-sns/tree/1.2.3) (2019-11-17)
+[Full Changelog](https://github.com/powerkernel/feathers-aws-sns/compare/v1.2.2...1.2.3)
+
+**Closed issues:**
+
+- An in-range update of aws-sdk is breaking the build 🚨 [\#9](https://github.com/powerkernel/feathers-aws-sns/issues/9)
+
+**Merged pull requests:**
+
+- Greenkeeper/aws sdk 2.573.0 [\#10](https://github.com/powerkernel/feathers-aws-sns/pull/10) ([harrytang](https://github.com/harrytang))
+
 ## [v1.2.2](https://github.com/powerkernel/feathers-aws-sns/tree/v1.2.2) (2019-08-27)
 [Full Changelog](https://github.com/powerkernel/feathers-aws-sns/compare/v1.2.1...v1.2.2)
 
