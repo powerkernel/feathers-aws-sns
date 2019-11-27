@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.2.4](https://github.com/powerkernel/feathers-aws-sns/tree/1.2.4) (2019-11-27)
+[Full Changelog](https://github.com/powerkernel/feathers-aws-sns/compare/1.2.3...1.2.4)
+
 ## [1.2.3](https://github.com/powerkernel/feathers-aws-sns/tree/1.2.3) (2019-11-17)
 [Full Changelog](https://github.com/powerkernel/feathers-aws-sns/compare/v1.2.2...1.2.3)
 
