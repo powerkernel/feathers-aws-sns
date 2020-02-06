@@ -49,13 +49,13 @@
     "lib": "lib"
   },
   "dependencies": {
-    "@feathersjs/errors": "^3.3.6",
-    "aws-sdk": "^2.499.0"
+    "@feathersjs/errors": "^4.5.1",
+    "aws-sdk": "^2.613.0"
   },
   "devDependencies": {
-    "@feathersjs/express": "latest",
-    "@feathersjs/feathers": "latest",
-    "aws-sdk-mock": "^4.5.0",
+    "@feathersjs/express": "4.5.1",
+    "@feathersjs/feathers": "4.5.1",
+    "aws-sdk-mock": "^5.0.0",
     "jest": "^24.8.0",
     "semistandard": "^13.0.1"
   }
