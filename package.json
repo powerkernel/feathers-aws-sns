@@ -1,6 +1,6 @@
 {
   "name": "@powerkernel/feathers-aws-sns",
-  "version": "1.2.1",
+  "version": "1.2.4",
   "description": "Feathers AWS SNS service",
   "main": "lib/",
   "scripts": {
@@ -57,6 +57,6 @@
     "@feathersjs/feathers": "4.5.1",
     "aws-sdk-mock": "^5.0.0",
     "jest": "^24.8.0",
-    "semistandard": "^13.0.1"
+    "semistandard": "^14.0.0"
   }
 }
