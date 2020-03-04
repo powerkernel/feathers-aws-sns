@@ -54,7 +54,7 @@
   },
   "devDependencies": {
     "@feathersjs/express": "4.5.1",
-    "@feathersjs/feathers": "4.5.1",
+    "@feathersjs/feathers": "4.5.2",
     "aws-sdk-mock": "^4.5.0",
     "jest": "^24.8.0",
     "semistandard": "^14.0.0"
