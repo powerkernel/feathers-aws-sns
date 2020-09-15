@@ -64,6 +64,6 @@ result = await app.service('sns/publish').create({
 
 ## License
 
-Copyright (c) 2019 Power Kernel
+Copyright (c) 2020 Power Kernel
 
 Licensed under the [MIT license](LICENSE).
