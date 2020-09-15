@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.4](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.3...v2.0.4) (2020-09-15)
+
+
+### Bug Fixes
+
+* misc ([5a857c2](https://github.com/powerkernel/feathers-aws-sns/commit/5a857c27fd792323cfe9dc30c0f2c67c1b5fb92b))
+
 ### [2.0.3](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.2...v2.0.3) (2020-09-15)
 
 ### [2.0.2](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.1...v2.0.2) (2020-09-15)
