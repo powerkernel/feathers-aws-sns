@@ -1,3 +1,7 @@
+## [1.4.4](https://github.com/powerkernel/feathers-aws-sns/compare/v1.4.3...v1.4.4) (2020-09-15)
+
+
+
 ## [1.4.3](https://github.com/powerkernel/feathers-aws-sns/compare/v1.4.2...v1.4.3) (2020-09-15)
 
 
