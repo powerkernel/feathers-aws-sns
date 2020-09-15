@@ -1,7 +1,7 @@
 /**
  * @author Harry Tang <harry@powerkernel.com>
  * @link https://powerkernel.com
- * @copyright Copyright (c) 2019 Power Kernel
+ * @copyright Copyright (c) 2020 Power Kernel
  */
 
 const Sns = require("../lib/services/sns");
@@ -11,7 +11,6 @@ describe("AWS SNS Service", () => {
     describe("when missing `region` key", () => {
       test("throws an error", () => {
         expect(() => {
-          /* eslint-disable no-new */
           new Sns({});
         }).toThrow("AWS `region` needs to be provided");
       });
@@ -19,7 +18,6 @@ describe("AWS SNS Service", () => {
     describe("when missing `accessKey` key", () => {
       test("throws an error", () => {
         expect(() => {
-          /* eslint-disable no-new */
           new Sns({ region: "us-east-1a" });
         }).toThrow("AWS `accessKey` needs to be provided");
       });
@@ -27,7 +25,6 @@ describe("AWS SNS Service", () => {
     describe("when missing `secretKey` key", () => {
       test("throws an error", () => {
         expect(() => {
-          /* eslint-disable no-new */
           new Sns({
             region: "us-east-1",
             accessKey: "some_key",

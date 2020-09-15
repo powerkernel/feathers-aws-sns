@@ -64,8 +64,6 @@ describe("AWS SNS Subscriptions Service", () => {
     const result = await app
       .service("sns/subscriptions")
       .get({ TopicArn: "arn:aws:sns:us-east-1:658710424301:MySNSTopic" });
-    // console.log(result);
-    // expect.anything(result);
     expect(result).toStrictEqual({
       ResponseMetadata: { RequestId: "a3bfff2b-d35e-5d5f-b6b9-aa921f619503" },
       Subscriptions: [
