@@ -4,6 +4,11 @@
   "description": "Feathers AWS SNS service",
   "main": "lib/",
   "scripts": {
+    "publish": "git push origin --tags && git push origin",
+    "release:pre": "npm version prerelease && npm publish --tag pre",
+    "release:patch": "npm version patch && npm publish",
+    "release:minor": "npm version minor && npm publish",
+    "release:major": "npm version major && npm publish",
     "test": "jest"
   },
   "keywords": [
