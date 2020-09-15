@@ -1,5 +1,4 @@
 # feathers-aws-sns
-[![Download Status](https://img.shields.io/npm/dm/@powerkernel/feathers-aws-sns.svg?style=flat-square)](https://www.npmjs.com/package/@powerkernel/feathers-aws-sns) 
 
 > Feathers AWS SNS service
 
