@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/powerkernel/feathers-aws-sns/compare/v1.4.5...v2.0.0) (2020-09-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* drop support for Node 8
+
+* drop support for Node 8 ([15ff661](https://github.com/powerkernel/feathers-aws-sns/commit/15ff6619d96504808758110478c2ad3460373cc4))
+
 ### [1.4.5](https://github.com/powerkernel/feathers-aws-sns/compare/v1.4.4...v1.4.5) (2020-09-15)
 
 ## [1.4.4](https://github.com/powerkernel/feathers-aws-sns/compare/v1.4.3...v1.4.4) (2020-09-15)
