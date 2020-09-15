@@ -4,18 +4,14 @@
  * @copyright Copyright (c) 2019 Power Kernel
  */
 
-const sns = require('../lib');
+const sns = require("../lib");
 
-const CLASSES = [
-  'Publish',
-  'Topics',
-  'Subscriptions'
-];
+const CLASSES = ["Publish", "Topics", "Subscriptions"];
 
-describe('feathers-aws-sns', () => {
-  test('exports expected classes', () => {
-    CLASSES.forEach(name => {
-      expect(typeof sns[name]).toBe('function');
+describe("feathers-aws-sns", () => {
+  test("exports expected classes", () => {
+    CLASSES.forEach((name) => {
+      expect(typeof sns[name]).toBe("function");
     });
   });
 });

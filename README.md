@@ -1,11 +1,5 @@
 # feathers-aws-sns
-
-[![Build Status](https://api.travis-ci.com/powerkernel/feathers-aws-sns.svg?branch=master)](https://travis-ci.com/powerkernel/feathers-aws-sns)
-[![Maintainability](https://api.codeclimate.com/v1/badges/682c2a1a2e3dd2bc490e/maintainability)](https://codeclimate.com/github/powerkernel/feathers-aws-sns/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/682c2a1a2e3dd2bc490e/test_coverage)](https://codeclimate.com/github/powerkernel/feathers-aws-sns/test_coverage)
-[![Dependency Status](https://img.shields.io/david/powerkernel/feathers-aws-sns.svg?style=flat-square)](https://david-dm.org/powerkernel/feathers-aws-sns)
 [![Download Status](https://img.shields.io/npm/dm/@powerkernel/feathers-aws-sns.svg?style=flat-square)](https://www.npmjs.com/package/@powerkernel/feathers-aws-sns) 
-[![Greenkeeper badge](https://badges.greenkeeper.io/powerkernel/feathers-aws-sns.svg)](https://greenkeeper.io/)
 
 > Feathers AWS SNS service
 

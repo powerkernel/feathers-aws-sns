@@ -4,49 +4,45 @@
  * @copyright Copyright (c) 2019 Power Kernel
  */
 
-const Sns = require('../lib/services/sns');
+const Sns = require("../lib/services/sns");
 
-describe('AWS SNS Service', () => {
-  describe('Initialization', () => {
-    describe('when missing `region` key', () => {
-      test('throws an error', () => {
+describe("AWS SNS Service", () => {
+  describe("Initialization", () => {
+    describe("when missing `region` key", () => {
+      test("throws an error", () => {
         expect(() => {
           /* eslint-disable no-new */
           new Sns({});
-        }
-        ).toThrow('AWS `region` needs to be provided');
+        }).toThrow("AWS `region` needs to be provided");
       });
     });
-    describe('when missing `accessKey` key', () => {
-      test('throws an error', () => {
+    describe("when missing `accessKey` key", () => {
+      test("throws an error", () => {
         expect(() => {
           /* eslint-disable no-new */
-          new Sns({ region: 'us-east-1a' });
-        }
-        ).toThrow('AWS `accessKey` needs to be provided');
+          new Sns({ region: "us-east-1a" });
+        }).toThrow("AWS `accessKey` needs to be provided");
       });
     });
-    describe('when missing `secretKey` key', () => {
-      test('throws an error', () => {
+    describe("when missing `secretKey` key", () => {
+      test("throws an error", () => {
         expect(() => {
           /* eslint-disable no-new */
           new Sns({
-            region: 'us-east-1',
-            accessKey: 'some_key'
+            region: "us-east-1",
+            accessKey: "some_key",
           });
-        }).toThrow('AWS `secretKey` needs to be provided');
+        }).toThrow("AWS `secretKey` needs to be provided");
       });
     });
-    describe('when everything is OK', () => {
-      test('create an SNS', () => {
+    describe("when everything is OK", () => {
+      test("create an SNS", () => {
         const service = new Sns({
-          region: 'us-east-1',
-          accessKey: 'some_key',
-          secretKey: 'some_key'
+          region: "us-east-1",
+          accessKey: "some_key",
+          secretKey: "some_key",
         });
-        expect(
-          typeof service
-        ).toBe('object');
+        expect(typeof service).toBe("object");
       });
     });
   });

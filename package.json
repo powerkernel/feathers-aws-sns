@@ -10,8 +10,7 @@
     "release:minor": "npm version minor && npm publish",
     "release:major": "npm version major && npm publish",
     "changelog": "github_changelog_generator && git add CHANGELOG.md && git commit -am \"Updating changelog\"",
-    "lint": "semistandard lib/*.js lib/**/*.js test/*.js test/**/*.js --fix",
-    "test": "npm run lint && jest"
+    "test": "jest"
   },
   "keywords": [
     "feathers",
@@ -34,11 +33,6 @@
     "node": ">= 8.0.0"
   },
   "license": "MIT",
-  "semistandard": {
-    "env": [
-      "jest"
-    ]
-  },
   "jest": {
     "roots": [
       "test"
@@ -56,7 +50,10 @@
     "@feathersjs/express": "4.5.1",
     "@feathersjs/feathers": "4.5.1",
     "aws-sdk-mock": "^4.5.0",
+    "eslint": "^7.9.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-jest": "^24.0.1",
     "jest": "^24.8.0",
-    "semistandard": "^14.0.0"
+    "prettier": "^2.1.1"
   }
 }
