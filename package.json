@@ -4,9 +4,10 @@
   "description": "Feathers AWS SNS service",
   "main": "lib/",
   "scripts": {
-    "version:patch": "npm version patch",
-    "version:minor": "npm version minor",
-    "version:major": "npm version major",
+    "changelog": "node_modules/conventional-changelog-cli/cli.js -p angular -i CHANGELOG.md -s && git add CHANGELOG.md && git commit -am \"Updating changelog\"",
+    "version:patch": "npm version patch && npm run changelog",
+    "version:minor": "npm version minor && npm run changelog",
+    "version:major": "npm version major && npm run changelog",
     "test": "jest"
   },
   "keywords": [
@@ -47,6 +48,7 @@
     "@feathersjs/express": "^4.5.1",
     "@feathersjs/feathers": "^4.5.1",
     "aws-sdk-mock": "^4.5.0",
+    "conventional-changelog-cli": "^2.1.0",
     "eslint": "^7.9.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-jest": "^24.0.1",
