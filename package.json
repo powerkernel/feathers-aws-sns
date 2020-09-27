@@ -4,6 +4,7 @@
   "description": "Feathers AWS SNS service",
   "main": "lib/",
   "scripts": {
+    "release": "npx standard-version",
     "test": "jest"
   },
   "keywords": [
