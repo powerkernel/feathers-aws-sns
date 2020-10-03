@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.7](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.6...v2.0.7) (2020-10-03)
+
+
+### Others
+
+* update npm release script ([b902787](https://github.com/powerkernel/feathers-aws-sns/commit/b902787f276ffb47b83a460f553f974bf50ec699))
+
 ### [2.0.6](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.5...v2.0.6) (2020-10-03)
 
 
