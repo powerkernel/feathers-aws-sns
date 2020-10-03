@@ -4,7 +4,7 @@
   "description": "Feathers AWS SNS service",
   "main": "lib/",
   "scripts": {
-    "release": "npx standard-version",
+    "release": "npx standard-version && git push --follow-tags origin main",
     "test": "jest"
   },
   "keywords": [
