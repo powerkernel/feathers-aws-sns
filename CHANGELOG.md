@@ -2,6 +2,41 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.9](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.8...v2.0.9) (2020-11-11)
+
+
+### Others
+
+* **deps:** bump @feathersjs/errors from 4.5.9 to 4.5.10 ([2270a9b](https://github.com/powerkernel/feathers-aws-sns/commit/2270a9b81445db90d583bc486b3c3c8a79fb80d8))
+* **deps:** bump aws-sdk from 2.771.0 to 2.772.0 ([#58](https://github.com/powerkernel/feathers-aws-sns/issues/58)) ([0145754](https://github.com/powerkernel/feathers-aws-sns/commit/014575407626e6cf631704742aa21fcd169aa1b0))
+* **deps:** bump aws-sdk from 2.772.0 to 2.773.0 ([#59](https://github.com/powerkernel/feathers-aws-sns/issues/59)) ([ce1cc13](https://github.com/powerkernel/feathers-aws-sns/commit/ce1cc13b6183fd26474c18e728ccbb5ec71bd1a6))
+* **deps:** bump aws-sdk from 2.773.0 to 2.774.0 ([c9e3f16](https://github.com/powerkernel/feathers-aws-sns/commit/c9e3f1603f2aa00f14c5fe4313cf7d0ba9e7688e))
+* **deps:** bump aws-sdk from 2.774.0 to 2.775.0 ([#63](https://github.com/powerkernel/feathers-aws-sns/issues/63)) ([dca26d2](https://github.com/powerkernel/feathers-aws-sns/commit/dca26d20bf037513f73f9075ae56efd5b2080b38))
+* **deps:** bump aws-sdk from 2.775.0 to 2.776.0 ([#64](https://github.com/powerkernel/feathers-aws-sns/issues/64)) ([eb55965](https://github.com/powerkernel/feathers-aws-sns/commit/eb559654ce34740c6bd9513f7d897b9870af976c))
+* **deps:** bump aws-sdk from 2.776.0 to 2.777.0 ([#66](https://github.com/powerkernel/feathers-aws-sns/issues/66)) ([c43b408](https://github.com/powerkernel/feathers-aws-sns/commit/c43b408f4b131d43d938552a5e31da2c42346c1c))
+* **deps:** bump aws-sdk from 2.777.0 to 2.778.0 ([#67](https://github.com/powerkernel/feathers-aws-sns/issues/67)) ([25b91d3](https://github.com/powerkernel/feathers-aws-sns/commit/25b91d3249f366b0552c2d914ff3f760f2bf7110))
+* **deps:** bump aws-sdk from 2.778.0 to 2.779.0 ([#71](https://github.com/powerkernel/feathers-aws-sns/issues/71)) ([2a6c869](https://github.com/powerkernel/feathers-aws-sns/commit/2a6c8695a7451cdab73c4d1679584535c5f19128))
+* **deps:** bump aws-sdk from 2.779.0 to 2.780.0 ([#73](https://github.com/powerkernel/feathers-aws-sns/issues/73)) ([7ec1d24](https://github.com/powerkernel/feathers-aws-sns/commit/7ec1d24cd39b19cb9e1ec42cb4bd7875fd0a6c15))
+* **deps:** bump aws-sdk from 2.780.0 to 2.781.0 ([#74](https://github.com/powerkernel/feathers-aws-sns/issues/74)) ([74affaf](https://github.com/powerkernel/feathers-aws-sns/commit/74affaf7b7031a9d9a4723094fa630450798a676))
+* **deps:** bump aws-sdk from 2.781.0 to 2.784.0 ([#78](https://github.com/powerkernel/feathers-aws-sns/issues/78)) ([86d88a6](https://github.com/powerkernel/feathers-aws-sns/commit/86d88a64cf830b7f94900cd240010b3b1228f066))
+* **deps:** bump aws-sdk from 2.784.0 to 2.786.0 ([#81](https://github.com/powerkernel/feathers-aws-sns/issues/81)) ([5f25702](https://github.com/powerkernel/feathers-aws-sns/commit/5f2570276526e06a793632b59f3ddc9b303b4846))
+* **deps:** bump aws-sdk from 2.786.0 to 2.787.0 ([3dd8d4e](https://github.com/powerkernel/feathers-aws-sns/commit/3dd8d4eddfef356cac6906ec78670607c4ed9ba1))
+* **deps:** bump aws-sdk from 2.786.0 to 2.787.0 ([#83](https://github.com/powerkernel/feathers-aws-sns/issues/83)) ([1e1da77](https://github.com/powerkernel/feathers-aws-sns/commit/1e1da77f27a46f2c29f03cf1507f3ff0b0ffece0))
+* **deps:** bump aws-sdk from 2.787.0 to 2.789.0 ([#88](https://github.com/powerkernel/feathers-aws-sns/issues/88)) ([7d50f6a](https://github.com/powerkernel/feathers-aws-sns/commit/7d50f6af87b96da1357e7e9d77e636ef6beed64b))
+* **deps-dev:** bump @feathersjs/express from 4.5.9 to 4.5.10 ([f9aaecc](https://github.com/powerkernel/feathers-aws-sns/commit/f9aaecccc0287b5042eaa9941df61fc7ba38fc54))
+* **deps-dev:** bump @feathersjs/feathers from 4.5.9 to 4.5.10 ([#82](https://github.com/powerkernel/feathers-aws-sns/issues/82)) ([5a5bee4](https://github.com/powerkernel/feathers-aws-sns/commit/5a5bee481bd9ffe84f643078436aa23638c3b642))
+* **deps-dev:** bump eslint from 7.11.0 to 7.12.0 ([#69](https://github.com/powerkernel/feathers-aws-sns/issues/69)) ([54e3ab1](https://github.com/powerkernel/feathers-aws-sns/commit/54e3ab168356c1ba9e1482d3c889f36af882b709))
+* **deps-dev:** bump eslint from 7.12.0 to 7.12.1 ([#70](https://github.com/powerkernel/feathers-aws-sns/issues/70)) ([ff19766](https://github.com/powerkernel/feathers-aws-sns/commit/ff197662f0bf923b52ada9e5ff0200a66596ae55))
+* **deps-dev:** bump eslint from 7.12.1 to 7.13.0 ([8db5814](https://github.com/powerkernel/feathers-aws-sns/commit/8db5814852b315fb2bf1d7af95683f28d0e8087f))
+* **deps-dev:** bump eslint-config-prettier from 6.12.0 to 6.13.0 ([#60](https://github.com/powerkernel/feathers-aws-sns/issues/60)) ([e67361f](https://github.com/powerkernel/feathers-aws-sns/commit/e67361fee0e7d1522103660c7c10882d7e5cc84d))
+* **deps-dev:** bump eslint-config-prettier from 6.13.0 to 6.14.0 ([#65](https://github.com/powerkernel/feathers-aws-sns/issues/65)) ([16e50db](https://github.com/powerkernel/feathers-aws-sns/commit/16e50db6c45e2f092ff37fb34d54e33be325476d))
+* **deps-dev:** bump eslint-config-prettier from 6.14.0 to 6.15.0 ([#72](https://github.com/powerkernel/feathers-aws-sns/issues/72)) ([a533eef](https://github.com/powerkernel/feathers-aws-sns/commit/a533eef2139cb9339b19c72525e297999b11e302))
+* **deps-dev:** bump jest from 26.5.3 to 26.6.0 ([#62](https://github.com/powerkernel/feathers-aws-sns/issues/62)) ([a5d5469](https://github.com/powerkernel/feathers-aws-sns/commit/a5d546939f8861d4887ef8fb1833669f10d5e584))
+* **deps-dev:** bump jest from 26.6.0 to 26.6.1 ([eab5b2c](https://github.com/powerkernel/feathers-aws-sns/commit/eab5b2cd4df9f69b1ece1b8a1634ab4e9b722b28))
+* **deps-dev:** bump jest from 26.6.0 to 26.6.1 ([#68](https://github.com/powerkernel/feathers-aws-sns/issues/68)) ([66736ef](https://github.com/powerkernel/feathers-aws-sns/commit/66736ef3d6242336f8e12c17f391b8af7545e2a0))
+* **deps-dev:** bump jest from 26.6.1 to 26.6.2 ([#77](https://github.com/powerkernel/feathers-aws-sns/issues/77)) ([eda088c](https://github.com/powerkernel/feathers-aws-sns/commit/eda088c861b2370a401b033e286dcbd07bc70e0d))
+* **deps-dev:** bump jest from 26.6.2 to 26.6.3 ([#80](https://github.com/powerkernel/feathers-aws-sns/issues/80)) ([5b76aa1](https://github.com/powerkernel/feathers-aws-sns/commit/5b76aa1ef8c1799ea030333a04a87c535e32be59))
+
 ### [2.0.8](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.7...v2.0.8) (2020-10-13)
 
 
