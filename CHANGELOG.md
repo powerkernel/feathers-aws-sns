@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.10](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.9...v2.0.10) (2020-11-14)
+
+
+### Others
+
+* **deps:** bump aws-sdk from 2.789.0 to 2.790.0 ([#89](https://github.com/powerkernel/feathers-aws-sns/issues/89)) ([a535cdf](https://github.com/powerkernel/feathers-aws-sns/commit/a535cdfdaf51a162e5decfae6a68d19870c8c02a))
+* **deps:** bump aws-sdk from 2.790.0 to 2.791.0 ([#90](https://github.com/powerkernel/feathers-aws-sns/issues/90)) ([cc1cd37](https://github.com/powerkernel/feathers-aws-sns/commit/cc1cd376708d12c35d1625a9f528697baf1bd7fb))
+* **deps-dev:** bump eslint-plugin-jest from 24.1.0 to 24.1.3 ([#91](https://github.com/powerkernel/feathers-aws-sns/issues/91)) ([e2f8c8b](https://github.com/powerkernel/feathers-aws-sns/commit/e2f8c8b47c7d087d46953fa547d0fc2784abc6c6))
+
 ### [2.0.9](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.8...v2.0.9) (2020-11-11)
 
 
