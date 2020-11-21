@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.11](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.10...v2.0.11) (2020-11-21)
+
+
+### Others
+
+* **deps:** bump aws-sdk from 2.791.0 to 2.792.0 ([#92](https://github.com/powerkernel/feathers-aws-sns/issues/92)) ([680df53](https://github.com/powerkernel/feathers-aws-sns/commit/680df5398861ffb3525b9c25228cc8bc601353eb))
+* **deps:** bump aws-sdk from 2.792.0 to 2.795.0 ([#95](https://github.com/powerkernel/feathers-aws-sns/issues/95)) ([1763aac](https://github.com/powerkernel/feathers-aws-sns/commit/1763aac88e6d9e2974a8c9a64d616b2714b1df8e))
+* **deps:** bump aws-sdk from 2.795.0 to 2.796.0 ([#96](https://github.com/powerkernel/feathers-aws-sns/issues/96)) ([d839216](https://github.com/powerkernel/feathers-aws-sns/commit/d8392168ba4f5c80e17ad418269eaeb35637770b))
+* **deps-dev:** bump prettier from 2.1.2 to 2.2.0 ([#97](https://github.com/powerkernel/feathers-aws-sns/issues/97)) ([f0b041d](https://github.com/powerkernel/feathers-aws-sns/commit/f0b041d437c427e7ba75c27f80afbd7a4a346e01))
+
 ### [2.0.10](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.9...v2.0.10) (2020-11-14)
 
 
