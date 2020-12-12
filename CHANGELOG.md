@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.12](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.11...v2.0.12) (2020-12-12)
+
+
+### Others
+
+* **deps:** bump @feathersjs/errors from 4.5.10 to 4.5.11 ([#107](https://github.com/powerkernel/feathers-aws-sns/issues/107)) ([c1b86fb](https://github.com/powerkernel/feathers-aws-sns/commit/c1b86fb4558937becf979cea57f04916466c02dd))
+* **deps:** bump actions/setup-node from v2.1.2 to v2.1.3 ([#117](https://github.com/powerkernel/feathers-aws-sns/issues/117)) ([1ed533b](https://github.com/powerkernel/feathers-aws-sns/commit/1ed533b479278950657cb37dcfa3f83ac38066c5))
+* **deps:** bump aws-sdk from 2.796.0 to 2.797.0 ([#99](https://github.com/powerkernel/feathers-aws-sns/issues/99)) ([3213325](https://github.com/powerkernel/feathers-aws-sns/commit/321332593110c244cff968b18b5e56e6591e34aa))
+* **deps:** bump aws-sdk from 2.797.0 to 2.799.0 ([#101](https://github.com/powerkernel/feathers-aws-sns/issues/101)) ([fb7770a](https://github.com/powerkernel/feathers-aws-sns/commit/fb7770a52f4c2e3584c049b458e6a77c670eabd3))
+* **deps:** bump aws-sdk from 2.799.0 to 2.800.0 ([#103](https://github.com/powerkernel/feathers-aws-sns/issues/103)) ([1885ec3](https://github.com/powerkernel/feathers-aws-sns/commit/1885ec3f6e1df368db89ea13f6bb297d27a61512))
+* **deps:** bump aws-sdk from 2.800.0 to 2.804.0 ([#106](https://github.com/powerkernel/feathers-aws-sns/issues/106)) ([6496729](https://github.com/powerkernel/feathers-aws-sns/commit/6496729f25d54982da4e031049fe81deea8db4b9))
+* **deps:** bump aws-sdk from 2.804.0 to 2.806.0 ([#114](https://github.com/powerkernel/feathers-aws-sns/issues/114)) ([583cae8](https://github.com/powerkernel/feathers-aws-sns/commit/583cae82aa3223a556be3058097de1fb500d6b27))
+* **deps:** bump aws-sdk from 2.806.0 to 2.808.0 ([#116](https://github.com/powerkernel/feathers-aws-sns/issues/116)) ([c93ff52](https://github.com/powerkernel/feathers-aws-sns/commit/c93ff52d248c52b77a0e55662a734bac63595d85))
+* **deps:** bump ini from 1.3.5 to 1.3.8 ([#118](https://github.com/powerkernel/feathers-aws-sns/issues/118)) ([34675e0](https://github.com/powerkernel/feathers-aws-sns/commit/34675e0d26a4d1b993dd40edc86d0f1797f4b750))
+* **deps-dev:** bump @feathersjs/express from 4.5.10 to 4.5.11 ([#110](https://github.com/powerkernel/feathers-aws-sns/issues/110)) ([d3e9594](https://github.com/powerkernel/feathers-aws-sns/commit/d3e959444b7592b1c78397261960d5a632a0a63c))
+* **deps-dev:** bump @feathersjs/feathers from 4.5.10 to 4.5.11 ([#109](https://github.com/powerkernel/feathers-aws-sns/issues/109)) ([5506d58](https://github.com/powerkernel/feathers-aws-sns/commit/5506d589de029ef2257ee05cfd5b22770ce65175))
+* **deps-dev:** bump eslint from 7.13.0 to 7.14.0 ([#98](https://github.com/powerkernel/feathers-aws-sns/issues/98)) ([6789d0a](https://github.com/powerkernel/feathers-aws-sns/commit/6789d0a1ed204ad0fba3ed23c2d4041ebba0836a))
+* **deps-dev:** bump eslint from 7.14.0 to 7.15.0 ([#112](https://github.com/powerkernel/feathers-aws-sns/issues/112)) ([decbbfb](https://github.com/powerkernel/feathers-aws-sns/commit/decbbfb2035c0407ace5e3582567149162317ef9))
+* **deps-dev:** bump eslint-config-prettier from 6.15.0 to 7.0.0 ([#108](https://github.com/powerkernel/feathers-aws-sns/issues/108)) ([fa8d837](https://github.com/powerkernel/feathers-aws-sns/commit/fa8d8379fe6030984052b8126ce1bee7a9ec7366))
+* **deps-dev:** bump husky from 4.3.0 to 4.3.5 ([#113](https://github.com/powerkernel/feathers-aws-sns/issues/113)) ([cd59a2c](https://github.com/powerkernel/feathers-aws-sns/commit/cd59a2ccce4966452b899d40f21bdc5e07b2f4ed))
+* **deps-dev:** bump prettier from 2.2.0 to 2.2.1 ([#102](https://github.com/powerkernel/feathers-aws-sns/issues/102)) ([6edb34d](https://github.com/powerkernel/feathers-aws-sns/commit/6edb34d6af8017a8230ec4a4626482af1ac20880))
+
 ### [2.0.11](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.10...v2.0.11) (2020-11-21)
 
 
