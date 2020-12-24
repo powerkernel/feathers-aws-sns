@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.13](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.12...v2.0.13) (2020-12-24)
+
+
+### Others
+
+* **deps:** bump actions/setup-node from v2.1.3 to v2.1.4 ([#123](https://github.com/powerkernel/feathers-aws-sns/issues/123)) ([77692eb](https://github.com/powerkernel/feathers-aws-sns/commit/77692eb20ac63445891398caf155b9fc92597afd))
+* **deps:** bump aws-sdk from 2.808.0 to 2.809.0 ([#119](https://github.com/powerkernel/feathers-aws-sns/issues/119)) ([edaddc3](https://github.com/powerkernel/feathers-aws-sns/commit/edaddc3bf676ba3bfaa095bd79f1d604a1c78515))
+* **deps:** bump aws-sdk from 2.809.0 to 2.811.0 ([#122](https://github.com/powerkernel/feathers-aws-sns/issues/122)) ([238514e](https://github.com/powerkernel/feathers-aws-sns/commit/238514e400b301955715cab983ddca93393471f7))
+* **deps:** bump aws-sdk from 2.811.0 to 2.812.0 ([#124](https://github.com/powerkernel/feathers-aws-sns/issues/124)) ([75b6a30](https://github.com/powerkernel/feathers-aws-sns/commit/75b6a3016ced4aba1502b18778e9c2a868a2dc48))
+* **deps:** bump aws-sdk from 2.812.0 to 2.814.0 ([#125](https://github.com/powerkernel/feathers-aws-sns/issues/125)) ([d8d33ec](https://github.com/powerkernel/feathers-aws-sns/commit/d8d33ec9c54aa771011569ceb2135ae2c81fc9d9))
+* **deps:** bump node-notifier from 8.0.0 to 8.0.1 ([#128](https://github.com/powerkernel/feathers-aws-sns/issues/128)) ([158d50b](https://github.com/powerkernel/feathers-aws-sns/commit/158d50b53ce6f789bf8c8e7864502ffc639d2aad))
+* **deps-dev:** bump eslint from 7.15.0 to 7.16.0 ([#126](https://github.com/powerkernel/feathers-aws-sns/issues/126)) ([c021141](https://github.com/powerkernel/feathers-aws-sns/commit/c0211414b43fa1b898f2c4d22ee270f49fcb61ca))
+* **deps-dev:** bump eslint-config-prettier from 7.0.0 to 7.1.0 ([#127](https://github.com/powerkernel/feathers-aws-sns/issues/127)) ([e1c86ee](https://github.com/powerkernel/feathers-aws-sns/commit/e1c86ee34785d4a1afa7bfb4da07eb6b108c023c))
+* update schedule interval ([3dc7a7d](https://github.com/powerkernel/feathers-aws-sns/commit/3dc7a7d0702e5626c0ac2f0769df389202ad180b))
+* **deps-dev:** bump husky from 4.3.5 to 4.3.6 ([#120](https://github.com/powerkernel/feathers-aws-sns/issues/120)) ([4f5314c](https://github.com/powerkernel/feathers-aws-sns/commit/4f5314c2bb07f89baaa838412ed457e46d2f121f))
+
 ### [2.0.12](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.11...v2.0.12) (2020-12-12)
 
 
