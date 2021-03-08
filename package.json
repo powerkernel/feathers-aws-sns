@@ -47,7 +47,7 @@
     "aws-sdk": "^2.616.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^11.0.0",
+    "@commitlint/cli": "^12.0.1",
     "@commitlint/config-conventional": "^12.0.1",
     "@feathersjs/express": "^4.5.1",
     "@feathersjs/feathers": "^4.5.1",
