@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.15](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.14...v2.0.15) (2021-03-15)
+
+
+### Others
+
+* **deps:** bump actions/setup-node from v2.1.4 to v2.1.5 ([#149](https://github.com/powerkernel/feathers-aws-sns/issues/149)) ([662e014](https://github.com/powerkernel/feathers-aws-sns/commit/662e014de658f8051fdc9c36f214f1cba5922164))
+* **deps:** bump aws-sdk from 2.839.0 to 2.843.0 ([#143](https://github.com/powerkernel/feathers-aws-sns/issues/143)) ([50cb15c](https://github.com/powerkernel/feathers-aws-sns/commit/50cb15c2ca857de255dd1d50753fb62a582a4374))
+* **deps:** bump aws-sdk from 2.843.0 to 2.853.0 ([#153](https://github.com/powerkernel/feathers-aws-sns/issues/153)) ([28a1a0f](https://github.com/powerkernel/feathers-aws-sns/commit/28a1a0ff3633d6ba427b62eaf916ac9dc8c8b0de))
+* **deps:** bump aws-sdk from 2.853.0 to 2.858.0 ([#158](https://github.com/powerkernel/feathers-aws-sns/issues/158)) ([ba230f5](https://github.com/powerkernel/feathers-aws-sns/commit/ba230f5622145f676afee1cbde6617d5428276cb))
+* **deps:** bump aws-sdk from 2.858.0 to 2.863.0 ([#162](https://github.com/powerkernel/feathers-aws-sns/issues/162)) ([13020a1](https://github.com/powerkernel/feathers-aws-sns/commit/13020a1a4c807874c1aae11b966e9a4d1b5302ef))
+* **deps-dev:** bump @commitlint/cli from 11.0.0 to 12.0.1 ([#159](https://github.com/powerkernel/feathers-aws-sns/issues/159)) ([5c8bc9f](https://github.com/powerkernel/feathers-aws-sns/commit/5c8bc9ff14e9b4cae84764fefc140093f4a87062))
+* **deps-dev:** bump @commitlint/config-conventional ([#150](https://github.com/powerkernel/feathers-aws-sns/issues/150)) ([6480c7f](https://github.com/powerkernel/feathers-aws-sns/commit/6480c7f11973401bd11d5ae6a06046a63391643f))
+* **deps-dev:** bump eslint from 7.19.0 to 7.20.0 ([#144](https://github.com/powerkernel/feathers-aws-sns/issues/144)) ([7549669](https://github.com/powerkernel/feathers-aws-sns/commit/75496695d6b80442407241b95b26972996bcdb10))
+* **deps-dev:** bump eslint from 7.20.0 to 7.21.0 ([#154](https://github.com/powerkernel/feathers-aws-sns/issues/154)) ([93146bd](https://github.com/powerkernel/feathers-aws-sns/commit/93146bdffb086ebed6cfbe885ea6117cbe939a8b))
+* **deps-dev:** bump eslint from 7.21.0 to 7.22.0 ([#160](https://github.com/powerkernel/feathers-aws-sns/issues/160)) ([5e23e09](https://github.com/powerkernel/feathers-aws-sns/commit/5e23e09523e2295ff7c690b82626c1e73cb89258))
+* **deps-dev:** bump eslint-config-prettier from 7.2.0 to 8.1.0 ([#152](https://github.com/powerkernel/feathers-aws-sns/issues/152)) ([523ab6d](https://github.com/powerkernel/feathers-aws-sns/commit/523ab6d0d84fe109de7a85935508ec3d3bfc3e07))
+* **deps-dev:** bump eslint-plugin-jest from 24.1.3 to 24.1.5 ([#146](https://github.com/powerkernel/feathers-aws-sns/issues/146)) ([8da2bcd](https://github.com/powerkernel/feathers-aws-sns/commit/8da2bcd1fad9a89385f4e3dfa74701523ba5e168))
+* **deps-dev:** bump eslint-plugin-jest from 24.1.5 to 24.1.8 ([#156](https://github.com/powerkernel/feathers-aws-sns/issues/156)) ([35f8149](https://github.com/powerkernel/feathers-aws-sns/commit/35f814922a933a1e9423019377058b135e05cff4))
+* **deps-dev:** bump eslint-plugin-jest from 24.1.8 to 24.3.1 ([#161](https://github.com/powerkernel/feathers-aws-sns/issues/161)) ([dceacc3](https://github.com/powerkernel/feathers-aws-sns/commit/dceacc318ab3e60d76f53d6925b7b467b45b4e87))
+* **deps-dev:** bump husky from 4.3.8 to 5.1.2 ([#151](https://github.com/powerkernel/feathers-aws-sns/issues/151)) ([742bddb](https://github.com/powerkernel/feathers-aws-sns/commit/742bddb30c2325f3dc810f99c53906ca448b8f6a))
+* **deps-dev:** bump husky from 5.1.2 to 5.1.3 ([#157](https://github.com/powerkernel/feathers-aws-sns/issues/157)) ([804e388](https://github.com/powerkernel/feathers-aws-sns/commit/804e3888ce61a4bd4e3ff3bb82db29e98c3485cc))
+
 ### [2.0.14](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.13...v2.0.14) (2021-02-08)
 
 
