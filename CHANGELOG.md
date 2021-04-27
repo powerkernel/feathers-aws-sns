@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.17](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.16...v2.0.17) (2021-04-27)
+
+
+### Others
+
+* update package-lock.json ([9a73d00](https://github.com/powerkernel/feathers-aws-sns/commit/9a73d00273aaf087294e61054370270ee8617e14))
+* **deps:** bump aws-sdk from 2.874.0 to 2.879.0 ([#169](https://github.com/powerkernel/feathers-aws-sns/issues/169)) ([63f4d13](https://github.com/powerkernel/feathers-aws-sns/commit/63f4d131c7e461ad536e5c78af778741df14d1b0))
+* **deps:** bump aws-sdk from 2.879.0 to 2.892.0 ([#181](https://github.com/powerkernel/feathers-aws-sns/issues/181)) ([8daf91e](https://github.com/powerkernel/feathers-aws-sns/commit/8daf91e635d2bf11e5dd62cc99716b65f52227e6))
+* **deps-dev:** bump @commitlint/cli from 12.0.1 to 12.1.1 ([#171](https://github.com/powerkernel/feathers-aws-sns/issues/171)) ([f1a71ab](https://github.com/powerkernel/feathers-aws-sns/commit/f1a71abe9c6ee808dd516434920cd5bec41870c8))
+* **deps-dev:** bump @commitlint/config-conventional ([#173](https://github.com/powerkernel/feathers-aws-sns/issues/173)) ([0337fc6](https://github.com/powerkernel/feathers-aws-sns/commit/0337fc670fc5de9bcec2df0a8799b7af13aba357))
+* **deps-dev:** bump eslint from 7.23.0 to 7.25.0 ([#180](https://github.com/powerkernel/feathers-aws-sns/issues/180)) ([f10147f](https://github.com/powerkernel/feathers-aws-sns/commit/f10147f3beb281bf3e9b12716ea21e49b6b4654f))
+* **deps-dev:** bump eslint-config-prettier from 8.1.0 to 8.3.0 ([#182](https://github.com/powerkernel/feathers-aws-sns/issues/182)) ([ef4fe66](https://github.com/powerkernel/feathers-aws-sns/commit/ef4fe663326472cb8a4699c8c658b1275bad09f8))
+* **deps-dev:** bump eslint-plugin-jest from 24.3.2 to 24.3.4 ([#172](https://github.com/powerkernel/feathers-aws-sns/issues/172)) ([330eaff](https://github.com/powerkernel/feathers-aws-sns/commit/330eaff1148d83112091cd81830c9a83a763729a))
+* **deps-dev:** bump eslint-plugin-jest from 24.3.4 to 24.3.6 ([#179](https://github.com/powerkernel/feathers-aws-sns/issues/179)) ([858a0e6](https://github.com/powerkernel/feathers-aws-sns/commit/858a0e62b5cb862d1dfa0aa12b906529eb42bdf5))
+* **deps-dev:** bump husky from 5.2.0 to 6.0.0 ([#170](https://github.com/powerkernel/feathers-aws-sns/issues/170)) ([0e25dda](https://github.com/powerkernel/feathers-aws-sns/commit/0e25dda2e5bb63e2a2c9a7cb44fd154cbb273b66))
+
 ### [2.0.16](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.15...v2.0.16) (2021-03-31)
 
 
