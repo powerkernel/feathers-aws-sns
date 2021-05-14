@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.18](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.17...v2.0.18) (2021-05-14)
+
+
+### Others
+
+* update dependencies ([ece47d3](https://github.com/powerkernel/feathers-aws-sns/commit/ece47d3798752b91731ec5bd4a08b90cf3eb00ac))
+* **deps:** bump aws-sdk from 2.892.0 to 2.897.0 ([#183](https://github.com/powerkernel/feathers-aws-sns/issues/183)) ([51b13f3](https://github.com/powerkernel/feathers-aws-sns/commit/51b13f35ab40b63c8478d21f9b34cb25df74e2d6))
+* **deps:** bump aws-sdk from 2.897.0 to 2.900.0 ([#185](https://github.com/powerkernel/feathers-aws-sns/issues/185)) ([f6000a3](https://github.com/powerkernel/feathers-aws-sns/commit/f6000a373c5668522d21345fdca0b6205a2d07f2))
+* **deps:** bump aws-sdk from 2.900.0 to 2.903.0 ([#187](https://github.com/powerkernel/feathers-aws-sns/issues/187)) ([183a082](https://github.com/powerkernel/feathers-aws-sns/commit/183a082ba4e1274818f2cce64fd5e13932e7e784))
+* **deps-dev:** bump eslint from 7.25.0 to 7.26.0 ([#188](https://github.com/powerkernel/feathers-aws-sns/issues/188)) ([07d0a50](https://github.com/powerkernel/feathers-aws-sns/commit/07d0a509c6fd2e6f411cf9057064067d1c33407f))
+* **deps-dev:** bump prettier from 2.2.1 to 2.3.0 ([#186](https://github.com/powerkernel/feathers-aws-sns/issues/186)) ([3f8e0b3](https://github.com/powerkernel/feathers-aws-sns/commit/3f8e0b34111c36a3e33f4f5aee3d863a1e99cb17))
+* add auto merge action ([3955d34](https://github.com/powerkernel/feathers-aws-sns/commit/3955d34eb4e6f50c14b521638b54035baba1db48))
+* change Dependabot's interval ([7b82841](https://github.com/powerkernel/feathers-aws-sns/commit/7b82841c43f9c1e372159b32ba0445befa0243e3))
+* dependabot auto merge config ([cba7672](https://github.com/powerkernel/feathers-aws-sns/commit/cba7672079d77bd5f0ba85ea78be4f5f321bdad7))
+* remove auto merge ([67692f7](https://github.com/powerkernel/feathers-aws-sns/commit/67692f7674550215ba235a569c772f904ea76c4d))
+* update action-dependabot-auto-merge ([fb6a947](https://github.com/powerkernel/feathers-aws-sns/commit/fb6a94762031721dd9ea7073c9e580f636812f87))
+* update auto merge command ([3dbc1b6](https://github.com/powerkernel/feathers-aws-sns/commit/3dbc1b6a94c7e21ede4da60af7d160881a04afac))
+* update token env ([481915f](https://github.com/powerkernel/feathers-aws-sns/commit/481915fce9f8bdce80917d7610675947efff3f0e))
+
 ### [2.0.17](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.16...v2.0.17) (2021-04-27)
 
 
