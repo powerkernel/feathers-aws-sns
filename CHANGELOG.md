@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.19](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.18...v2.0.19) (2021-05-19)
+
+
+### Others
+
+* **deps:** bump aws-sdk from 2.906.0 to 2.907.0 ([#189](https://github.com/powerkernel/feathers-aws-sns/issues/189)) ([369fad7](https://github.com/powerkernel/feathers-aws-sns/commit/369fad77db5198fd6cb5ca6b82b80f05aee3ca5a))
+* **deps:** pin dependencies ([#190](https://github.com/powerkernel/feathers-aws-sns/issues/190)) ([28e1f81](https://github.com/powerkernel/feathers-aws-sns/commit/28e1f81f032cfe7c2c3d176efe7a4fff75a9894a))
+* **deps:** update dependency aws-sdk-mock to v5 ([#191](https://github.com/powerkernel/feathers-aws-sns/issues/191)) ([0afb8da](https://github.com/powerkernel/feathers-aws-sns/commit/0afb8dadfc58bddd21175a0809dcc9114464b98f))
+* configure renovate bot ([078bf23](https://github.com/powerkernel/feathers-aws-sns/commit/078bf23c89e12d2e7a5c878e915e4146ba0eabf2))
+* remove dependabot ([9fe9305](https://github.com/powerkernel/feathers-aws-sns/commit/9fe93053fc311b9f16349e610e4047c889831e52))
+
 ### [2.0.18](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.17...v2.0.18) (2021-05-14)
 
 
