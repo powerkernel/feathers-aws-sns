@@ -52,7 +52,7 @@
     "@feathersjs/express": "4.5.11",
     "@feathersjs/feathers": "4.5.11",
     "aws-sdk-mock": "5.1.0",
-    "eslint": "7.26.0",
+    "eslint": "7.27.0",
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-jest": "24.3.6",
     "husky": "6.0.0",
