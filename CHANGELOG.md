@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.20](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.19...v2.0.20) (2021-05-29)
+
+
+### Others
+
+* **deps:** update dependency eslint to v7.27.0 ([3165d9d](https://github.com/powerkernel/feathers-aws-sns/commit/3165d9d9ddb7d40bd3a18430c7093929bb1258f0))
+* **deps:** update dependency jest to v27 ([#193](https://github.com/powerkernel/feathers-aws-sns/issues/193)) ([0bdecd8](https://github.com/powerkernel/feathers-aws-sns/commit/0bdecd8e3d71cf7c0e0ad0dc51931f7d99c31a11))
+* **deps:** update dependency jest to v27.0.1 ([b37194e](https://github.com/powerkernel/feathers-aws-sns/commit/b37194ed4b8cb92280e06ca1b91d8b795812c224))
+* **deps:** update dependency jest to v27.0.2 ([a3c2146](https://github.com/powerkernel/feathers-aws-sns/commit/a3c2146ef0c848ba2ae028ab2bfa29ce889173b8))
+* **deps:** update dependency jest to v27.0.3 ([b957394](https://github.com/powerkernel/feathers-aws-sns/commit/b957394bb47a8cfd144d679d82bffecd98d2e401))
+
 ### [2.0.19](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.18...v2.0.19) (2021-05-19)
 
 
