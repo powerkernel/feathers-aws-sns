@@ -2,6 +2,33 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.21](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.20...v2.0.21) (2021-08-10)
+
+
+### Others
+
+* **deps:** update actions/setup-node action to v2.2.0 ([5f95023](https://github.com/powerkernel/feathers-aws-sns/commit/5f950233b64e7c9b71b830d16485ea8b000438a4))
+* **deps:** update actions/setup-node action to v2.3.0 ([a2696ca](https://github.com/powerkernel/feathers-aws-sns/commit/a2696ca7763fd9e04a8e77001dd2f4612bbdac95))
+* **deps:** update actions/setup-node action to v2.3.1 ([fcc440b](https://github.com/powerkernel/feathers-aws-sns/commit/fcc440b488703e5adb55dd16a68abe32eea7cb92))
+* **deps:** update actions/setup-node action to v2.3.2 ([c59460d](https://github.com/powerkernel/feathers-aws-sns/commit/c59460d3ac8dcb68bfa7514e2b7e98d4be405583))
+* **deps:** update actions/setup-node action to v2.4.0 ([d32ac2c](https://github.com/powerkernel/feathers-aws-sns/commit/d32ac2c9d3045f01873ab2711853f46d3db59b2d))
+* **deps:** update commitlint monorepo to v13 ([e0cdc20](https://github.com/powerkernel/feathers-aws-sns/commit/e0cdc209a1d3f1714ae60547bc765eed0ea9fcf6))
+* **deps:** update dependency aws-sdk-mock to v5.2.0 ([e26f8bb](https://github.com/powerkernel/feathers-aws-sns/commit/e26f8bbd21918e16961c6147f2f795e9998cb543))
+* **deps:** update dependency aws-sdk-mock to v5.2.1 ([e4e57b4](https://github.com/powerkernel/feathers-aws-sns/commit/e4e57b49f605e25e89c7a8e175b75b251de8d2f8))
+* **deps:** update dependency eslint to v7.28.0 ([c78fd8e](https://github.com/powerkernel/feathers-aws-sns/commit/c78fd8e160290b527d578f85383bacc42049b7a2))
+* **deps:** update dependency eslint to v7.29.0 ([5fdcc1c](https://github.com/powerkernel/feathers-aws-sns/commit/5fdcc1caaa95aef990c6eaddca31df250c4aed93))
+* **deps:** update dependency eslint to v7.30.0 ([0440ce4](https://github.com/powerkernel/feathers-aws-sns/commit/0440ce406eef387bb30ef05a01687edf025be505))
+* **deps:** update dependency eslint to v7.31.0 ([3de3b22](https://github.com/powerkernel/feathers-aws-sns/commit/3de3b22ff08f3a219ce36425f52a36089d430029))
+* **deps:** update dependency eslint to v7.32.0 ([7421445](https://github.com/powerkernel/feathers-aws-sns/commit/7421445589f55d224e8d5803ae210249b2a4fad0))
+* **deps:** update dependency eslint-plugin-jest to v24.4.0 ([fefa42a](https://github.com/powerkernel/feathers-aws-sns/commit/fefa42a28c07b3be1520d4fd1a0f0a4872c88610))
+* **deps:** update dependency husky to v7 ([fc6932e](https://github.com/powerkernel/feathers-aws-sns/commit/fc6932e93234bb513a58dca6f9ae649c43909635))
+* **deps:** update dependency husky to v7.0.1 ([d85a7b5](https://github.com/powerkernel/feathers-aws-sns/commit/d85a7b59a0a1c0ad808f995ea967d4b82a661e78))
+* **deps:** update dependency jest to v27.0.4 ([fdfe72b](https://github.com/powerkernel/feathers-aws-sns/commit/fdfe72b9d8ff3ed602d952d173eb8a7b45336bdc))
+* **deps:** update dependency jest to v27.0.5 ([5f5757c](https://github.com/powerkernel/feathers-aws-sns/commit/5f5757c26f2058f98f83b5b2514f7d7167036992))
+* **deps:** update dependency jest to v27.0.6 ([373616d](https://github.com/powerkernel/feathers-aws-sns/commit/373616d66ac01f295641d87668c1a0aea4707914))
+* **deps:** update dependency prettier to v2.3.1 ([cee51ea](https://github.com/powerkernel/feathers-aws-sns/commit/cee51eaf0a1ddcdb19b35b9d06f94dce099b763c))
+* **deps:** update dependency prettier to v2.3.2 ([32338f6](https://github.com/powerkernel/feathers-aws-sns/commit/32338f602392f951bff3cfba821836dd82fdfda4))
+
 ### [2.0.20](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.19...v2.0.20) (2021-05-29)
 
 
