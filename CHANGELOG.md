@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.22](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.21...v2.0.22) (2021-08-11)
+
+
+### Others
+
+* **deps:** bump path-parse from 1.0.6 to 1.0.7 ([#218](https://github.com/powerkernel/feathers-aws-sns/issues/218)) ([811c7d7](https://github.com/powerkernel/feathers-aws-sns/commit/811c7d77507f146c8b4eaa9ddcc0cc988eee91b9))
+* **deps:** update dependency path-parse to 1.0.7 [security] ([#219](https://github.com/powerkernel/feathers-aws-sns/issues/219)) ([93ee860](https://github.com/powerkernel/feathers-aws-sns/commit/93ee860bb47e0502032c0bfa93d7ab19d02d760b))
+
 ### [2.0.21](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.20...v2.0.21) (2021-08-10)
 
 
