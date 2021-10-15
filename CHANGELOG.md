@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.26](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.25...v2.0.26) (2021-10-15)
+
+
+### Others
+
+* **deps:** update dependency @commitlint/cli to v13.2.1 ([9b9082c](https://github.com/powerkernel/feathers-aws-sns/commit/9b9082c0151fd0da0967187d3b708b712c2f0ea4))
+* **deps:** update dependency eslint to v8 ([cae4dc7](https://github.com/powerkernel/feathers-aws-sns/commit/cae4dc7fa5f240e31890531ae6eb300a945b5bd7))
+* **deps:** update dependency eslint to v8.0.1 ([f3484bc](https://github.com/powerkernel/feathers-aws-sns/commit/f3484bce9aad9eab6d478d8c91782e3e6e92e079))
+* **deps:** update dependency eslint-plugin-jest to v24.6.0 ([4716257](https://github.com/powerkernel/feathers-aws-sns/commit/4716257a5b4ed52e3427c2cd31d8cfa32604b911))
+* **deps:** update dependency eslint-plugin-jest to v24.7.0 ([377c10b](https://github.com/powerkernel/feathers-aws-sns/commit/377c10bcca8dd1d4eb16481ce3dc9275fe4b95dd))
+* **deps:** update dependency eslint-plugin-jest to v25 ([ec2bde5](https://github.com/powerkernel/feathers-aws-sns/commit/ec2bde5faf723b0d5ac8a33875c40531011ae0b7))
+* **deps:** update dependency eslint-plugin-jest to v25.0.5 ([924024d](https://github.com/powerkernel/feathers-aws-sns/commit/924024dd1d3d22d80270ff7652f77b97dae54973))
+* **deps:** update dependency eslint-plugin-jest to v25.0.6 ([33943cd](https://github.com/powerkernel/feathers-aws-sns/commit/33943cd7f8934fb31d5be99b771bbb44fd09caeb))
+* **deps:** update dependency eslint-plugin-jest to v25.2.0 ([d2d6bcf](https://github.com/powerkernel/feathers-aws-sns/commit/d2d6bcfaa28ef1f2bf2eb1a09ecf1154edf758cf))
+* **deps:** update dependency eslint-plugin-jest to v25.2.1 ([0534bbb](https://github.com/powerkernel/feathers-aws-sns/commit/0534bbbaf5a6e6e56ea616f8a99755c238d41cd4))
+* **deps:** update dependency jest to v27.2.5 ([4b71436](https://github.com/powerkernel/feathers-aws-sns/commit/4b714362348326cf441f129b9313922afe45e73e))
+* win->linux ([aceb901](https://github.com/powerkernel/feathers-aws-sns/commit/aceb901d366392c20a34962a54254e19441ff476))
+
 ### [2.0.25](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.22...v2.0.25) (2021-10-06)
 
 
