@@ -1,6 +1,6 @@
 {
   "name": "@powerkernel/feathers-aws-sns",
-  "version": "2.0.22",
+  "version": "2.0.25",
   "description": "Feathers AWS SNS service",
   "main": "lib/",
   "scripts": {
@@ -47,16 +47,16 @@
     "aws-sdk": "^2.616.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "13.1.0",
-    "@commitlint/config-conventional": "13.1.0",
+    "@commitlint/cli": "13.2.1",
+    "@commitlint/config-conventional": "13.2.0",
     "@feathersjs/express": "4.5.11",
     "@feathersjs/feathers": "4.5.11",
-    "aws-sdk-mock": "5.2.1",
-    "eslint": "7.32.0",
+    "aws-sdk-mock": "5.4.0",
+    "eslint": "8.0.1",
     "eslint-config-prettier": "8.3.0",
-    "eslint-plugin-jest": "24.4.0",
-    "husky": "7.0.1",
-    "jest": "27.0.6",
-    "prettier": "2.3.2"
+    "eslint-plugin-jest": "25.2.1",
+    "husky": "7.0.2",
+    "jest": "27.2.5",
+    "prettier": "2.4.1"
   }
 }

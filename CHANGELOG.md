@@ -2,6 +2,90 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.25](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.22...v2.0.25) (2021-10-06)
+
+
+### Others
+
+* **deps:** bump ansi-regex from 5.0.0 to 5.0.1 ([#232](https://github.com/powerkernel/feathers-aws-sns/issues/232)) ([297631a](https://github.com/powerkernel/feathers-aws-sns/commit/297631a7c3ac7a5becda3d5790b038b90d5b347b))
+* **deps:** update actions/setup-node action to v2.4.1 ([526eeae](https://github.com/powerkernel/feathers-aws-sns/commit/526eeae5fa37876ee89c7a093263606a687bd61a))
+* **deps:** update commitlint monorepo to v13.2.0 ([67a5939](https://github.com/powerkernel/feathers-aws-sns/commit/67a5939e25a4bdbed8a81b6bdb4f7b0e3810fb71))
+* **deps:** update dependency ansi-regex to 5.0.1 [security] ([#233](https://github.com/powerkernel/feathers-aws-sns/issues/233)) ([a77c5b2](https://github.com/powerkernel/feathers-aws-sns/commit/a77c5b2043223b5f7771e95018b3d4bd58c5e1af))
+* **deps:** update dependency aws-sdk-mock to v5.2.2 ([669c80f](https://github.com/powerkernel/feathers-aws-sns/commit/669c80fa4354fc0a656a5a78fe244bf2eccacfd9))
+* **deps:** update dependency aws-sdk-mock to v5.3.0 ([f7c17a3](https://github.com/powerkernel/feathers-aws-sns/commit/f7c17a376120c251c1005113eb6d47fdcecf3c9f))
+* **deps:** update dependency aws-sdk-mock to v5.4.0 ([cc593f1](https://github.com/powerkernel/feathers-aws-sns/commit/cc593f1f1e0226a4a67e417f01a218c1fa870c1c))
+* **deps:** update dependency eslint-plugin-jest to v24.4.2 ([e080263](https://github.com/powerkernel/feathers-aws-sns/commit/e080263658612d3ad8c1218d3654c0e2c5146247))
+* **deps:** update dependency eslint-plugin-jest to v24.4.3 ([cecfbac](https://github.com/powerkernel/feathers-aws-sns/commit/cecfbacf9fb2101cdec37578e4510781ae972e2f))
+* **deps:** update dependency eslint-plugin-jest to v24.5.0 ([c0a2a0f](https://github.com/powerkernel/feathers-aws-sns/commit/c0a2a0ff35a5db856632d7d451e9095619778171))
+* **deps:** update dependency eslint-plugin-jest to v24.5.2 ([dc7546a](https://github.com/powerkernel/feathers-aws-sns/commit/dc7546a2be5c704efc0025c43da3db576cb03312))
+* **deps:** update dependency husky to v7.0.2 ([e82fce0](https://github.com/powerkernel/feathers-aws-sns/commit/e82fce0f09019beae74e390ae2756fd8d132e703))
+* **deps:** update dependency jest to v27.1.0 ([449290d](https://github.com/powerkernel/feathers-aws-sns/commit/449290d48407a37bafd0980049902898eebbe6b9))
+* **deps:** update dependency jest to v27.1.1 ([9b6560b](https://github.com/powerkernel/feathers-aws-sns/commit/9b6560b11bd58d7daf773c6d8b4aeb00ea5a9647))
+* **deps:** update dependency jest to v27.2.0 ([1e37438](https://github.com/powerkernel/feathers-aws-sns/commit/1e37438dd7205320803fbbf35952ae3d3d02a298))
+* **deps:** update dependency jest to v27.2.1 ([ea55802](https://github.com/powerkernel/feathers-aws-sns/commit/ea558023e50b6e61113ff76cc409d66095deca03))
+* **deps:** update dependency jest to v27.2.2 ([7b6be85](https://github.com/powerkernel/feathers-aws-sns/commit/7b6be85390ec533ea1edbd6decd681fe61eaa646))
+* **deps:** update dependency jest to v27.2.3 ([e69cd4e](https://github.com/powerkernel/feathers-aws-sns/commit/e69cd4e35709e38b0bdd052416c6455a72d0f2b6))
+* **deps:** update dependency jest to v27.2.4 ([ded10da](https://github.com/powerkernel/feathers-aws-sns/commit/ded10da1d434afe15d100996f2d9f4fc9cf3951e))
+* **deps:** update dependency prettier to v2.4.0 ([8c5ab17](https://github.com/powerkernel/feathers-aws-sns/commit/8c5ab17ad7c788394cd3beb29838cf90e0a25861))
+* **deps:** update dependency prettier to v2.4.1 ([347a01d](https://github.com/powerkernel/feathers-aws-sns/commit/347a01d2e27c4fced3f80eb88940e9cd16936263))
+* disable renovatebot dashboard ([bd73194](https://github.com/powerkernel/feathers-aws-sns/commit/bd73194dfb4e5436f5c9eed7e237976a4dd34f26))
+
+### [2.0.24](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.22...v2.0.24) (2021-10-06)
+
+
+### Others
+
+* **deps:** bump ansi-regex from 5.0.0 to 5.0.1 ([#232](https://github.com/powerkernel/feathers-aws-sns/issues/232)) ([297631a](https://github.com/powerkernel/feathers-aws-sns/commit/297631a7c3ac7a5becda3d5790b038b90d5b347b))
+* **deps:** update actions/setup-node action to v2.4.1 ([526eeae](https://github.com/powerkernel/feathers-aws-sns/commit/526eeae5fa37876ee89c7a093263606a687bd61a))
+* **deps:** update commitlint monorepo to v13.2.0 ([67a5939](https://github.com/powerkernel/feathers-aws-sns/commit/67a5939e25a4bdbed8a81b6bdb4f7b0e3810fb71))
+* **deps:** update dependency ansi-regex to 5.0.1 [security] ([#233](https://github.com/powerkernel/feathers-aws-sns/issues/233)) ([a77c5b2](https://github.com/powerkernel/feathers-aws-sns/commit/a77c5b2043223b5f7771e95018b3d4bd58c5e1af))
+* **deps:** update dependency aws-sdk-mock to v5.2.2 ([669c80f](https://github.com/powerkernel/feathers-aws-sns/commit/669c80fa4354fc0a656a5a78fe244bf2eccacfd9))
+* **deps:** update dependency aws-sdk-mock to v5.3.0 ([f7c17a3](https://github.com/powerkernel/feathers-aws-sns/commit/f7c17a376120c251c1005113eb6d47fdcecf3c9f))
+* **deps:** update dependency aws-sdk-mock to v5.4.0 ([cc593f1](https://github.com/powerkernel/feathers-aws-sns/commit/cc593f1f1e0226a4a67e417f01a218c1fa870c1c))
+* **deps:** update dependency eslint-plugin-jest to v24.4.2 ([e080263](https://github.com/powerkernel/feathers-aws-sns/commit/e080263658612d3ad8c1218d3654c0e2c5146247))
+* **deps:** update dependency eslint-plugin-jest to v24.4.3 ([cecfbac](https://github.com/powerkernel/feathers-aws-sns/commit/cecfbacf9fb2101cdec37578e4510781ae972e2f))
+* **deps:** update dependency eslint-plugin-jest to v24.5.0 ([c0a2a0f](https://github.com/powerkernel/feathers-aws-sns/commit/c0a2a0ff35a5db856632d7d451e9095619778171))
+* **deps:** update dependency eslint-plugin-jest to v24.5.2 ([dc7546a](https://github.com/powerkernel/feathers-aws-sns/commit/dc7546a2be5c704efc0025c43da3db576cb03312))
+* **deps:** update dependency husky to v7.0.2 ([e82fce0](https://github.com/powerkernel/feathers-aws-sns/commit/e82fce0f09019beae74e390ae2756fd8d132e703))
+* **deps:** update dependency jest to v27.1.0 ([449290d](https://github.com/powerkernel/feathers-aws-sns/commit/449290d48407a37bafd0980049902898eebbe6b9))
+* **deps:** update dependency jest to v27.1.1 ([9b6560b](https://github.com/powerkernel/feathers-aws-sns/commit/9b6560b11bd58d7daf773c6d8b4aeb00ea5a9647))
+* **deps:** update dependency jest to v27.2.0 ([1e37438](https://github.com/powerkernel/feathers-aws-sns/commit/1e37438dd7205320803fbbf35952ae3d3d02a298))
+* **deps:** update dependency jest to v27.2.1 ([ea55802](https://github.com/powerkernel/feathers-aws-sns/commit/ea558023e50b6e61113ff76cc409d66095deca03))
+* **deps:** update dependency jest to v27.2.2 ([7b6be85](https://github.com/powerkernel/feathers-aws-sns/commit/7b6be85390ec533ea1edbd6decd681fe61eaa646))
+* **deps:** update dependency jest to v27.2.3 ([e69cd4e](https://github.com/powerkernel/feathers-aws-sns/commit/e69cd4e35709e38b0bdd052416c6455a72d0f2b6))
+* **deps:** update dependency jest to v27.2.4 ([ded10da](https://github.com/powerkernel/feathers-aws-sns/commit/ded10da1d434afe15d100996f2d9f4fc9cf3951e))
+* **deps:** update dependency prettier to v2.4.0 ([8c5ab17](https://github.com/powerkernel/feathers-aws-sns/commit/8c5ab17ad7c788394cd3beb29838cf90e0a25861))
+* **deps:** update dependency prettier to v2.4.1 ([347a01d](https://github.com/powerkernel/feathers-aws-sns/commit/347a01d2e27c4fced3f80eb88940e9cd16936263))
+* disable renovatebot dashboard ([bd73194](https://github.com/powerkernel/feathers-aws-sns/commit/bd73194dfb4e5436f5c9eed7e237976a4dd34f26))
+
+### [2.0.23](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.22...v2.0.23) (2021-10-06)
+
+
+### Others
+
+* **deps:** bump ansi-regex from 5.0.0 to 5.0.1 ([#232](https://github.com/powerkernel/feathers-aws-sns/issues/232)) ([297631a](https://github.com/powerkernel/feathers-aws-sns/commit/297631a7c3ac7a5becda3d5790b038b90d5b347b))
+* **deps:** update actions/setup-node action to v2.4.1 ([526eeae](https://github.com/powerkernel/feathers-aws-sns/commit/526eeae5fa37876ee89c7a093263606a687bd61a))
+* **deps:** update commitlint monorepo to v13.2.0 ([67a5939](https://github.com/powerkernel/feathers-aws-sns/commit/67a5939e25a4bdbed8a81b6bdb4f7b0e3810fb71))
+* **deps:** update dependency ansi-regex to 5.0.1 [security] ([#233](https://github.com/powerkernel/feathers-aws-sns/issues/233)) ([a77c5b2](https://github.com/powerkernel/feathers-aws-sns/commit/a77c5b2043223b5f7771e95018b3d4bd58c5e1af))
+* **deps:** update dependency aws-sdk-mock to v5.2.2 ([669c80f](https://github.com/powerkernel/feathers-aws-sns/commit/669c80fa4354fc0a656a5a78fe244bf2eccacfd9))
+* **deps:** update dependency aws-sdk-mock to v5.3.0 ([f7c17a3](https://github.com/powerkernel/feathers-aws-sns/commit/f7c17a376120c251c1005113eb6d47fdcecf3c9f))
+* **deps:** update dependency aws-sdk-mock to v5.4.0 ([cc593f1](https://github.com/powerkernel/feathers-aws-sns/commit/cc593f1f1e0226a4a67e417f01a218c1fa870c1c))
+* **deps:** update dependency eslint-plugin-jest to v24.4.2 ([e080263](https://github.com/powerkernel/feathers-aws-sns/commit/e080263658612d3ad8c1218d3654c0e2c5146247))
+* **deps:** update dependency eslint-plugin-jest to v24.4.3 ([cecfbac](https://github.com/powerkernel/feathers-aws-sns/commit/cecfbacf9fb2101cdec37578e4510781ae972e2f))
+* **deps:** update dependency eslint-plugin-jest to v24.5.0 ([c0a2a0f](https://github.com/powerkernel/feathers-aws-sns/commit/c0a2a0ff35a5db856632d7d451e9095619778171))
+* **deps:** update dependency eslint-plugin-jest to v24.5.2 ([dc7546a](https://github.com/powerkernel/feathers-aws-sns/commit/dc7546a2be5c704efc0025c43da3db576cb03312))
+* **deps:** update dependency husky to v7.0.2 ([e82fce0](https://github.com/powerkernel/feathers-aws-sns/commit/e82fce0f09019beae74e390ae2756fd8d132e703))
+* **deps:** update dependency jest to v27.1.0 ([449290d](https://github.com/powerkernel/feathers-aws-sns/commit/449290d48407a37bafd0980049902898eebbe6b9))
+* **deps:** update dependency jest to v27.1.1 ([9b6560b](https://github.com/powerkernel/feathers-aws-sns/commit/9b6560b11bd58d7daf773c6d8b4aeb00ea5a9647))
+* **deps:** update dependency jest to v27.2.0 ([1e37438](https://github.com/powerkernel/feathers-aws-sns/commit/1e37438dd7205320803fbbf35952ae3d3d02a298))
+* **deps:** update dependency jest to v27.2.1 ([ea55802](https://github.com/powerkernel/feathers-aws-sns/commit/ea558023e50b6e61113ff76cc409d66095deca03))
+* **deps:** update dependency jest to v27.2.2 ([7b6be85](https://github.com/powerkernel/feathers-aws-sns/commit/7b6be85390ec533ea1edbd6decd681fe61eaa646))
+* **deps:** update dependency jest to v27.2.3 ([e69cd4e](https://github.com/powerkernel/feathers-aws-sns/commit/e69cd4e35709e38b0bdd052416c6455a72d0f2b6))
+* **deps:** update dependency jest to v27.2.4 ([ded10da](https://github.com/powerkernel/feathers-aws-sns/commit/ded10da1d434afe15d100996f2d9f4fc9cf3951e))
+* **deps:** update dependency prettier to v2.4.0 ([8c5ab17](https://github.com/powerkernel/feathers-aws-sns/commit/8c5ab17ad7c788394cd3beb29838cf90e0a25861))
+* **deps:** update dependency prettier to v2.4.1 ([347a01d](https://github.com/powerkernel/feathers-aws-sns/commit/347a01d2e27c4fced3f80eb88940e9cd16936263))
+* disable renovatebot dashboard ([bd73194](https://github.com/powerkernel/feathers-aws-sns/commit/bd73194dfb4e5436f5c9eed7e237976a4dd34f26))
+
 ### [2.0.22](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.21...v2.0.22) (2021-08-11)
 
 
