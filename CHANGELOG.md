@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.27](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.26...v2.0.27) (2021-10-19)
+
+
+### Others
+
+* **deps:** update dependency eslint-plugin-jest to v25.2.2 ([bfffb25](https://github.com/powerkernel/feathers-aws-sns/commit/bfffb25fcec5b67684851438456bcf3416da059d))
+* **deps:** update dependency jest to v27.3.0 ([6eab43e](https://github.com/powerkernel/feathers-aws-sns/commit/6eab43e5d5fafbd4ebaa8047735a4f7b70ccdf02))
+* **deps:** update dependency jest to v27.3.1 ([87ab3aa](https://github.com/powerkernel/feathers-aws-sns/commit/87ab3aa03ee6a16c1179b8cbbc23710ac27c3b56))
+
 ### [2.0.26](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.25...v2.0.26) (2021-10-15)
 
 
