@@ -47,8 +47,8 @@
     "aws-sdk": "^2.616.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "13.2.1",
-    "@commitlint/config-conventional": "13.2.0",
+    "@commitlint/cli": "14.1.0",
+    "@commitlint/config-conventional": "14.1.0",
     "@feathersjs/express": "4.5.11",
     "@feathersjs/feathers": "4.5.11",
     "aws-sdk-mock": "5.4.0",
