@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.29](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.28...v2.0.29) (2021-11-25)
+
+
+### Others
+
+* **deps:** update commitlint monorepo to v15 ([cf19060](https://github.com/powerkernel/feathers-aws-sns/commit/cf19060e715924e5e12d8fcda489e238e2efb98a))
+* **deps:** update dependency eslint to v8.3.0 ([2b68b54](https://github.com/powerkernel/feathers-aws-sns/commit/2b68b541bf545f5b76f19c13a27e688634d53f18))
+* **deps:** update dependency eslint-plugin-jest to v25.3.0 ([0c5158a](https://github.com/powerkernel/feathers-aws-sns/commit/0c5158a25a6ad3c56bf877509ce88a6171cb8523))
+* **deps:** update dependency prettier to v2.5.0 ([d923c99](https://github.com/powerkernel/feathers-aws-sns/commit/d923c9943356eaebbc874b89dc7ccb5736b98b60))
+
 ### [2.0.28](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.27...v2.0.28) (2021-11-15)
 
 
