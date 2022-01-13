@@ -2,6 +2,35 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.30](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.29...v2.0.30) (2022-01-13)
+
+
+### Others
+
+* **deps:** update actions/setup-node action to v2.5.0 ([b7db037](https://github.com/powerkernel/feathers-aws-sns/commit/b7db037eb1969ae92c2266bea25972a06a1b4606))
+* **deps:** update actions/setup-node action to v2.5.1 ([024cfad](https://github.com/powerkernel/feathers-aws-sns/commit/024cfad3a75267008c3254ec29765e89ba834e1e))
+* **deps:** update commitlint monorepo to v16 ([78b2f20](https://github.com/powerkernel/feathers-aws-sns/commit/78b2f20d3cf6c65bb8816ece015b0f887998d751))
+* **deps:** update dependency @commitlint/cli to v16.0.1 ([8bf113e](https://github.com/powerkernel/feathers-aws-sns/commit/8bf113ea714cfc159f529d042384b82fe22fab1d))
+* **deps:** update dependency @commitlint/cli to v16.0.2 ([04d7e72](https://github.com/powerkernel/feathers-aws-sns/commit/04d7e726b9d3ee2e5aae2583613977888cffade6))
+* **deps:** update dependency aws-sdk-mock to v5.5.0 ([843f5fc](https://github.com/powerkernel/feathers-aws-sns/commit/843f5fcf91959af616b053f51ce9ad8a70d3011d))
+* **deps:** update dependency aws-sdk-mock to v5.5.1 ([cace0e5](https://github.com/powerkernel/feathers-aws-sns/commit/cace0e571414fb0c7e395551b1bb5931c371fe82))
+* **deps:** update dependency eslint to v8.4.0 ([80393c5](https://github.com/powerkernel/feathers-aws-sns/commit/80393c5f1d9c442568c4136e095ddf24fd443196))
+* **deps:** update dependency eslint to v8.4.1 ([f030a6d](https://github.com/powerkernel/feathers-aws-sns/commit/f030a6dabbb1eb8c1d7bb46b60c997f9a51cf19a))
+* **deps:** update dependency eslint to v8.5.0 ([cbcbaa2](https://github.com/powerkernel/feathers-aws-sns/commit/cbcbaa20ad01459ed2dc21438fd4ca0932208d45))
+* **deps:** update dependency eslint to v8.6.0 ([084606a](https://github.com/powerkernel/feathers-aws-sns/commit/084606ac8d7dccb26b237d03acf328d66af580d8))
+* **deps:** update dependency eslint-plugin-jest to v25.3.2 ([9cf28f7](https://github.com/powerkernel/feathers-aws-sns/commit/9cf28f7d719f40d4dd665177efd0b4106539de71))
+* **deps:** update dependency eslint-plugin-jest to v25.3.3 ([0066fe9](https://github.com/powerkernel/feathers-aws-sns/commit/0066fe9e77cb2202e24f826a5570bf7cf4a2d6ad))
+* **deps:** update dependency eslint-plugin-jest to v25.3.4 ([6e662ad](https://github.com/powerkernel/feathers-aws-sns/commit/6e662ad191fc9b331137d52c91c7ba5de4fd9a1d))
+* **deps:** update dependency jest to v27.4.0 ([660a542](https://github.com/powerkernel/feathers-aws-sns/commit/660a542ee697a7b66d56d22be710e8b4889c0c25))
+* **deps:** update dependency jest to v27.4.2 ([cd3b4fa](https://github.com/powerkernel/feathers-aws-sns/commit/cd3b4fa3b2f938e8ff471b465631a61f13e603c9))
+* **deps:** update dependency jest to v27.4.3 ([cf05fae](https://github.com/powerkernel/feathers-aws-sns/commit/cf05faea63b5eeccd5a2cd3b4d10373cf4baed11))
+* **deps:** update dependency jest to v27.4.4 ([0d4225d](https://github.com/powerkernel/feathers-aws-sns/commit/0d4225df1e6a5b943d41c39d5188c82ec2b917f8))
+* **deps:** update dependency jest to v27.4.5 ([5b0c994](https://github.com/powerkernel/feathers-aws-sns/commit/5b0c994c43296f6f874667e7265b36e9d6ffde67))
+* **deps:** update dependency jest to v27.4.6 ([0485c56](https://github.com/powerkernel/feathers-aws-sns/commit/0485c5605ff412c13187794c34d2e9b3859be2e0))
+* **deps:** update dependency jest to v27.4.7 ([abff3e0](https://github.com/powerkernel/feathers-aws-sns/commit/abff3e09b5f41536036e8f470bb3148432665be1))
+* **deps:** update dependency prettier to v2.5.1 ([7d4b078](https://github.com/powerkernel/feathers-aws-sns/commit/7d4b0780b196d9f0e56cfd3dd3ef4550b023e1ab))
+* **deps:** update feathers monorepo to v4.5.12 ([2128b1a](https://github.com/powerkernel/feathers-aws-sns/commit/2128b1af84466ae8b582c195da17e5a9b93626b2))
+
 ### [2.0.29](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.28...v2.0.29) (2021-11-25)
 
 
