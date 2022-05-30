@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.32](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.31...v2.0.32) (2022-05-30)
+
+
+### Others
+
+* **deps:** bump minimist from 1.2.5 to 1.2.6 ([#314](https://github.com/powerkernel/feathers-aws-sns/issues/314)) ([92e2c91](https://github.com/powerkernel/feathers-aws-sns/commit/92e2c911f9b41b1fadd1abac52c1f1a608c43e5c))
+* **deps:** update actions/checkout action to v3 ([#307](https://github.com/powerkernel/feathers-aws-sns/issues/307)) ([f9cc182](https://github.com/powerkernel/feathers-aws-sns/commit/f9cc18225811058575bfb80f998c30daf4f3268e))
+* **deps:** update actions/setup-node action to v3 ([#305](https://github.com/powerkernel/feathers-aws-sns/issues/305)) ([bf221fc](https://github.com/powerkernel/feathers-aws-sns/commit/bf221fc8554eb4a77f40baaa9bcf2533aa4fd30c))
+* **deps:** update dependency eslint-plugin-jest to v26.3.0 ([78339e2](https://github.com/powerkernel/feathers-aws-sns/commit/78339e247962baa78cec0db8cc72032861c90c3e))
+* **deps:** update dependency eslint-plugin-jest to v26.4.2 ([b71090a](https://github.com/powerkernel/feathers-aws-sns/commit/b71090a8f850ffb60bf8c761e62a0e5767d16a9c))
+* **deps:** update dependency eslint-plugin-jest to v26.4.5 ([f39615f](https://github.com/powerkernel/feathers-aws-sns/commit/f39615fc31640b4d8a638f8471f0998f25e6ab93))
+* **deps:** update dependency jest to v28 ([#323](https://github.com/powerkernel/feathers-aws-sns/issues/323)) ([4521eea](https://github.com/powerkernel/feathers-aws-sns/commit/4521eea4433d5ecbf47a996ef84baa6264e47c86))
+* remove suport for node 10.x ([ad53380](https://github.com/powerkernel/feathers-aws-sns/commit/ad53380c81496bbf9ac0d60a6efbbf1b003ff3b5))
+
 ### [2.0.31](https://github.com/powerkernel/feathers-aws-sns/compare/v2.0.30...v2.0.31) (2022-05-25)
 
 
