@@ -49,7 +49,7 @@
   "devDependencies": {
     "@commitlint/cli": "17.6.6",
     "@commitlint/config-conventional": "17.6.6",
-    "@feathersjs/express": "4.5.17",
+    "@feathersjs/express": "4.5.18",
     "@feathersjs/feathers": "4.5.17",
     "aws-sdk-mock": "5.8.0",
     "eslint": "8.45.0",
