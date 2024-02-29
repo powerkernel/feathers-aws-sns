@@ -51,7 +51,7 @@
     "@commitlint/config-conventional": "19.0.3",
     "@feathersjs/express": "4.5.18",
     "@feathersjs/feathers": "4.5.17",
-    "aws-sdk-mock": "5.8.0",
+    "aws-sdk-mock": "5.9.0",
     "eslint": "8.57.0",
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin-jest": "27.9.0",
